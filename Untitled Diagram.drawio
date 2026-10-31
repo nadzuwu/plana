@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="jS5jDT2sPwajFkRLipKY">
-    <mxGraphModel dx="1931" dy="828" grid="1" gridSize="30" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#666666,#121212)" math="0" shadow="1">
+    <mxGraphModel dx="3706" dy="1256" grid="1" gridSize="30" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#666666,#121212)" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,104 +8,99 @@
           <mxGeometry as="geometry" />
         </mxCell>
         <mxCell id="t7buiJ_uyIJg3bKYSTis-70" parent="t7buiJ_uyIJg3bKYSTis-69" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;textShadow=0;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ClaudeNoChargeQuest&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="220" x="225" y="70" as="geometry" />
-        </mxCell>
-        <mxCell id="t7buiJ_uyIJg3bKYSTis-88" edge="1" parent="t7buiJ_uyIJg3bKYSTis-69" source="t7buiJ_uyIJg3bKYSTis-71" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;noEdgeStyle=1;orthogonal=1;curved=0;fontColor=default;align=center;verticalAlign=middle;textShadow=0;fillColor=#cce5ff;strokeColor=#36393d;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560.1666666666667" y="150.33333333333337" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry height="40" width="220" x="-183.5" y="20" as="geometry" />
         </mxCell>
         <mxCell id="t7buiJ_uyIJg3bKYSTis-71" parent="t7buiJ_uyIJg3bKYSTis-69" style="whiteSpace=wrap;html=1;points=[[0,0,1,0,0],[0.25,0,1,0,0],[0.5,0,1,0,0],[0.75,0,1,0,0],[1,0,1,0,0],[0,0.25,1,0,0],[0,0.5,1,0,0],[0,0.75,1,0,0],[1,0.25,1,0,0],[1,0.5,1,0,0],[1,0.75,1,0,0],[0,1,1,0,0],[0.25,1,1,0,0],[0.5,1,1,0,0],[0.75,1,1,0,0],[1,1,1,0,0],[0.8,0.75,0,0,0]];rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;textShadow=0;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;5:&lt;br&gt;none&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="100" x="285" y="150" as="geometry" />
+          <mxGeometry height="60" width="100" x="-123.5" y="100" as="geometry" />
         </mxCell>
         <mxCell id="t7buiJ_uyIJg3bKYSTis-73" edge="1" parent="t7buiJ_uyIJg3bKYSTis-69" source="t7buiJ_uyIJg3bKYSTis-70" style="html=1;rounded=0;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;defaultLabelBackgroundColor=page;fontColor=default;align=center;verticalAlign=middle;textShadow=0;fillColor=#cce5ff;strokeColor=#36393d;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;" target="t7buiJ_uyIJg3bKYSTis-71" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="335" y="130" />
+              <mxPoint x="-73.5" y="80" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="t7buiJ_uyIJg3bKYSTis-78" edge="1" parent="t7buiJ_uyIJg3bKYSTis-69" source="t7buiJ_uyIJg3bKYSTis-71" style="html=1;rounded=0;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;defaultLabelBackgroundColor=page;fontColor=default;align=center;verticalAlign=middle;textShadow=0;fillColor=#cce5ff;strokeColor=#36393d;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;" target="t7buiJ_uyIJg3bKYSTis-79" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="335" y="230" />
+              <mxPoint x="-73.5" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="t7buiJ_uyIJg3bKYSTis-79" parent="t7buiJ_uyIJg3bKYSTis-69" style="whiteSpace=wrap;html=1;points=[[0,0,1,0,0],[0.25,0,1,0,0],[0.5,0,1,0,0],[0.75,0,1,0,0],[1,0,1,0,0],[0,0.25,1,0,0],[0,0.5,1,0,0],[0,0.75,1,0,0],[1,0.25,1,0,0],[1,0.5,1,0,0],[1,0.75,1,0,0],[0,1,1,0,0],[0.25,1,1,0,0],[0.5,1,1,0,0],[0.75,1,1,0,0],[1,1,1,0,0],[0.8,0.75,0,0,0]];rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;textShadow=0;fillColor=#cce5ff;strokeColor=#36393d;" value="10:&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;div&gt;SetObjectiveDisplayed(10) : &lt;u&gt;Help the unconscious person&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Alias_Claude.GetActorRef().IgnoreFriendlyHits(true)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Alias_knapsack.GetReference().enable(true)&lt;/div&gt;&lt;div&gt;; player needs to get book and put in inventory&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="149.5" width="325" x="172.5" y="250.25" as="geometry" />
+          <mxGeometry height="149.5" width="325" x="-236" y="200.25" as="geometry" />
         </mxCell>
         <mxCell id="t7buiJ_uyIJg3bKYSTis-80" edge="1" parent="t7buiJ_uyIJg3bKYSTis-69" source="t7buiJ_uyIJg3bKYSTis-79" style="html=1;rounded=0;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;defaultLabelBackgroundColor=page;fontColor=default;align=center;verticalAlign=middle;textShadow=0;fillColor=#cce5ff;strokeColor=#36393d;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;" target="t7buiJ_uyIJg3bKYSTis-81" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="335" y="419.75" />
+              <mxPoint x="-73.5" y="369.75" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="t7buiJ_uyIJg3bKYSTis-81" parent="t7buiJ_uyIJg3bKYSTis-69" style="whiteSpace=wrap;html=1;points=[[0,0,1,0,0],[0.25,0,1,0,0],[0.5,0,1,0,0],[0.75,0,1,0,0],[1,0,1,0,0],[0,0.25,1,0,0],[0,0.5,1,0,0],[0,0.75,1,0,0],[1,0.25,1,0,0],[1,0.5,1,0,0],[1,0.75,1,0,0],[0,1,1,0,0],[0.25,1,1,0,0],[0.5,1,1,0,0],[0.75,1,1,0,0],[1,1,1,0,0],[0.8,0.75,0,0,0]];rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;textShadow=0;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;div&gt;20: SetObjectiveDisplayed(20)&lt;/div&gt;&lt;div&gt;&lt;u&gt;Read the journal and try to help them&lt;/u&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="280" x="195" y="440" as="geometry" />
+          <mxGeometry height="100" width="280" x="-213.5" y="390" as="geometry" />
         </mxCell>
         <mxCell id="t7buiJ_uyIJg3bKYSTis-82" edge="1" parent="t7buiJ_uyIJg3bKYSTis-69" source="t7buiJ_uyIJg3bKYSTis-81" style="html=1;rounded=0;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;defaultLabelBackgroundColor=page;fontColor=default;align=center;verticalAlign=middle;textShadow=0;fillColor=#cce5ff;strokeColor=#36393d;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;" target="t7buiJ_uyIJg3bKYSTis-83" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="335" y="560" />
+              <mxPoint x="-73.5" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="t7buiJ_uyIJg3bKYSTis-83" parent="t7buiJ_uyIJg3bKYSTis-69" style="whiteSpace=wrap;html=1;points=[[0,0,1,0,0],[0.25,0,1,0,0],[0.5,0,1,0,0],[0.75,0,1,0,0],[1,0,1,0,0],[0,0.25,1,0,0],[0,0.5,1,0,0],[0,0.75,1,0,0],[1,0.25,1,0,0],[1,0.5,1,0,0],[1,0.75,1,0,0],[0,1,1,0,0],[0.25,1,1,0,0],[0.5,1,1,0,0],[0.75,1,1,0,0],[1,1,1,0,0],[0.8,0.75,0,0,0]];rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;textShadow=0;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;div&gt;&lt;u&gt;40 : Claude hit by Sparks&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;; claude get hit, seal makes go stage 40, then claude wake up here&lt;/div&gt;&lt;div&gt;Alias_Claude.GetActorRef().IgnoreFriendlyHits(true)&lt;/div&gt;&lt;div&gt;Alias_Claude.GetActorRef().SetUnconscious(false)&lt;/div&gt;&lt;div&gt;Alias_Claude.GetActorRef().SetRestrained(false)&lt;/div&gt;&lt;div&gt;Alias_Claude.GetActorRef().AllowPCDialogue(false)&lt;/div&gt;&lt;div&gt;Alias_Claude.GetActorRef().EvaluatePackage()&lt;/div&gt;&lt;div&gt;setStage(50)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="422.5" x="123.75" y="580" as="geometry" />
+          <mxGeometry height="160" width="422.5" x="-284.75" y="530" as="geometry" />
         </mxCell>
         <mxCell id="t7buiJ_uyIJg3bKYSTis-86" edge="1" parent="t7buiJ_uyIJg3bKYSTis-69" source="t7buiJ_uyIJg3bKYSTis-83" style="html=1;rounded=0;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;defaultLabelBackgroundColor=page;fontColor=default;align=center;verticalAlign=middle;textShadow=0;fillColor=#cce5ff;strokeColor=#36393d;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;" target="t7buiJ_uyIJg3bKYSTis-87" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="335" y="760" />
-              <mxPoint x="555" y="759.5" />
+              <mxPoint x="-73.5" y="710" />
+              <mxPoint x="170.5" y="709.07" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="t7buiJ_uyIJg3bKYSTis-87" parent="t7buiJ_uyIJg3bKYSTis-69" style="whiteSpace=wrap;html=1;points=[[0,0,1,0,0],[0.25,0,1,0,0],[0.5,0,1,0,0],[0.75,0,1,0,0],[1,0,1,0,0],[0,0.25,1,0,0],[0,0.5,1,0,0],[0,0.75,1,0,0],[1,0.25,1,0,0],[1,0.5,1,0,0],[1,0.75,1,0,0],[0,1,1,0,0],[0.25,1,1,0,0],[0.5,1,1,0,0],[0.75,1,1,0,0],[1,1,1,0,0],[0.8,0.75,0,0,0]];rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;textShadow=0;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;div&gt;&lt;u&gt;50 :&amp;nbsp;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;div&gt;setObjectiveCompleted(10,1)&lt;/div&gt;&lt;div&gt;SetObjectiveCompleted(20,1)&lt;/div&gt;&lt;div&gt;; claude forcegreet&lt;/div&gt;&lt;div&gt;; moving forcegreet to like stg 55 bc i wanted cl to say aah while shes standing up&lt;/div&gt;&lt;div&gt;Alias_Claude.GetActorRef().BlockActivation(true)&lt;/div&gt;&lt;div&gt;Alias_Claude.GetActorRef().Say(ClaudeAaghTopic)&lt;/div&gt;&lt;div&gt;Alias_Claude.GetActorRef().IgnoreFriendlyHits(true)&lt;/div&gt;&lt;div&gt;setStage(55)&lt;/div&gt;&lt;div&gt;Alias_Seal.GetReference().BlockActivation(true) ; try, so pc can&#39;t do sparks and make the notif show up again&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="210" width="570" x="270" y="862" as="geometry" />
+          <mxGeometry height="210" width="570" x="-114.5" y="933" as="geometry" />
         </mxCell>
         <mxCell id="t7buiJ_uyIJg3bKYSTis-89" edge="1" parent="t7buiJ_uyIJg3bKYSTis-69" source="t7buiJ_uyIJg3bKYSTis-87" style="html=1;rounded=0;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;defaultLabelBackgroundColor=page;fontColor=default;align=center;verticalAlign=middle;textShadow=0;fillColor=#cce5ff;strokeColor=#36393d;shadow=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;" target="OY_irY8WNLe3s92xIe4J-10" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="555" y="1174.5" />
+              <mxPoint x="170.5" y="1366.94" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="t7buiJ_uyIJg3bKYSTis-90" parent="t7buiJ_uyIJg3bKYSTis-69" style="whiteSpace=wrap;html=1;points=[[0,0,1,0,0],[0.25,0,1,0,0],[0.5,0,1,0,0],[0.75,0,1,0,0],[1,0,1,0,0],[0,0.25,1,0,0],[0,0.5,1,0,0],[0,0.75,1,0,0],[1,0.25,1,0,0],[1,0.5,1,0,0],[1,0.75,1,0,0],[0,1,1,0,0],[0.25,1,1,0,0],[0.5,1,1,0,0],[0.75,1,1,0,0],[1,1,1,0,0],[0.8,0.75,0,0,0]];rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;textShadow=0;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;div&gt;&lt;u&gt;55 claude forcegreet&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;div&gt;&lt;div&gt;Alias_Claude.GetActorRef().BlockActivation(true)&lt;/div&gt;&lt;div&gt;Alias_Claude.GetActorRef().IgnoreFriendlyHits(true)&lt;/div&gt;&lt;div&gt;Alias_Claude.GetActorRef().AllowPCDialogue(true)&lt;/div&gt;&lt;div&gt;Alias_Claude.GetActorRef().EvaluatePackage()&lt;/div&gt;&lt;div&gt;; claude forcegreet should start&lt;/div&gt;&lt;div&gt;; thanking the player and such&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="150" width="510" x="300" y="1270" as="geometry" />
+          <mxGeometry height="150" width="510" x="-84.5" y="1462" as="geometry" />
         </mxCell>
         <mxCell id="OY_irY8WNLe3s92xIe4J-1" edge="1" parent="t7buiJ_uyIJg3bKYSTis-69" source="t7buiJ_uyIJg3bKYSTis-90" style="html=1;rounded=0;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;defaultLabelBackgroundColor=page;fontColor=default;align=center;verticalAlign=middle;textShadow=0;fillColor=#cce5ff;strokeColor=#36393d;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;" target="OY_irY8WNLe3s92xIe4J-2" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="555" y="1440" />
+              <mxPoint x="170.5" y="1632" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OY_irY8WNLe3s92xIe4J-2" parent="t7buiJ_uyIJg3bKYSTis-69" style="whiteSpace=wrap;html=1;points=[[0,0,1,0,0],[0.25,0,1,0,0],[0.5,0,1,0,0],[0.75,0,1,0,0],[1,0,1,0,0],[0,0.25,1,0,0],[0,0.5,1,0,0],[0,0.75,1,0,0],[1,0.25,1,0,0],[1,0.5,1,0,0],[1,0.75,1,0,0],[0,1,1,0,0],[0.25,1,1,0,0],[0.5,1,1,0,0],[0.75,1,1,0,0],[1,1,1,0,0],[0.8,0.75,0,0,0]];rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;textShadow=0;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;div&gt;&lt;u&gt;60&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;div&gt;&lt;div&gt;;&lt;/div&gt;&lt;div&gt;Alias_Claude.GetActorRef().BlockActivation(false)&lt;/div&gt;&lt;div&gt;Alias_Claude.GetActorRef().IgnoreFriendlyHits(true)&lt;/div&gt;&lt;div&gt;Alias_Claude.GetActorRef().AllowPCDialogue(true)&lt;/div&gt;&lt;div&gt;Alias_Claude.GetActorRef().SetRestrained(false)&lt;/div&gt;&lt;div&gt;ClaudeHelped.SetValue(1)&lt;/div&gt;&lt;div&gt;Alias_Claude.GetActorRef().EvaluatePackage()&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="190" width="510" x="300" y="1460" as="geometry" />
+          <mxGeometry height="190" width="510" x="-84.5" y="1652" as="geometry" />
         </mxCell>
         <mxCell id="OY_irY8WNLe3s92xIe4J-4" edge="1" parent="t7buiJ_uyIJg3bKYSTis-69" source="t7buiJ_uyIJg3bKYSTis-83" style="html=1;rounded=0;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;defaultLabelBackgroundColor=page;fontColor=default;align=center;verticalAlign=middle;textShadow=0;fillColor=#cce5ff;strokeColor=#36393d;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;" target="OY_irY8WNLe3s92xIe4J-5" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="335" y="760" />
-              <mxPoint x="115" y="760" />
+              <mxPoint x="-73.5" y="710" />
+              <mxPoint x="-317.5" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OY_irY8WNLe3s92xIe4J-5" parent="t7buiJ_uyIJg3bKYSTis-69" style="whiteSpace=wrap;html=1;points=[[0,0,1,0,0],[0.25,0,1,0,0],[0.5,0,1,0,0],[0.75,0,1,0,0],[1,0,1,0,0],[0,0.25,1,0,0],[0,0.5,1,0,0],[0,0.75,1,0,0],[1,0.25,1,0,0],[1,0.5,1,0,0],[1,0.75,1,0,0],[0,1,1,0,0],[0.25,1,1,0,0],[0.5,1,1,0,0],[0.75,1,1,0,0],[1,1,1,0,0],[0.8,0.75,0,0,0]];rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;textShadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;claude forcegreet pkg&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;getstagedone 60 == 0&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;getstagedone 50 == 1&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="375" width="230" y="779.5" as="geometry" />
+          <mxGeometry height="617.87" width="325" x="-480" y="729.07" as="geometry" />
         </mxCell>
         <mxCell id="OY_irY8WNLe3s92xIe4J-9" edge="1" parent="t7buiJ_uyIJg3bKYSTis-69" source="OY_irY8WNLe3s92xIe4J-10" style="html=1;rounded=0;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;defaultLabelBackgroundColor=page;fontColor=default;align=center;verticalAlign=middle;textShadow=0;fillColor=#cce5ff;strokeColor=#36393d;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;" target="t7buiJ_uyIJg3bKYSTis-90" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="555" y="1249.5" />
+              <mxPoint x="170.5" y="1442.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OY_irY8WNLe3s92xIe4J-10" parent="t7buiJ_uyIJg3bKYSTis-69" style="whiteSpace=wrap;html=1;points=[[0,0,1,0,0],[0.25,0,1,0,0],[0.5,0,1,0,0],[0.75,0,1,0,0],[1,0,1,0,0],[0,0.25,1,0,0],[0,0.5,1,0,0],[0,0.75,1,0,0],[1,0.25,1,0,0],[1,0.5,1,0,0],[1,0.75,1,0,0],[0,1,1,0,0],[0.25,1,1,0,0],[0.5,1,1,0,0],[0.75,1,1,0,0],[1,1,1,0,0],[0.8,0.75,0,0,0]];rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;textShadow=0;fillColor=#cce5ff;strokeColor=#36393d;" value="" vertex="1">
-          <mxGeometry height="35" width="510" x="300" y="1194.5" as="geometry" />
+          <mxGeometry height="35" width="510" x="-84.5" y="1387.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
